@@ -9,7 +9,7 @@ Este repositório contém uma coleção de pequenos projetos desenvolvidos em Py
 - ✅ Função cálcule a área
 - ✅ Jogo par ou ímpar 
 - ✅ Gerenciador de pagamentos 
-- ✅ IMC
+- ✅ Indice de massa corporal
 - ✅ Jogo de adivinhação
 - ✅ Lista composta análise de dados
 - ✅ Lista de preços
@@ -18,6 +18,8 @@ Este repositório contém uma coleção de pequenos projetos desenvolvidos em Py
 - ✅ Simulador caixa eletrônico
 - ✅ Tabuada 
 - ✅ Unindo dicionários e listas
+- ✅ Radar eletrônico 
+- ✅ Conversor de temperatura
 
 ## 🚀 Tecnologias usadas
 
