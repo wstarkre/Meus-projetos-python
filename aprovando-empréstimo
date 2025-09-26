@@ -1,0 +1,13 @@
+print ('-=-'*20)
+print ('\033[1;30;41mAnálise de empréstimo\033[m')
+print ('-=-'*20)
+casa = float(input('Qual valor da casa? R$'))
+salario = float(input('Qual o seu salário mensal? R$'))
+anos = int(input('Em quantos anos irá pagar? '))
+prestacao = casa/ (anos*12)
+minimo = salario*30/100
+print ('O valor da prestação fica de R${:.2f}'.format(prestacao))
+if prestacao <= minimo:
+    print('Seu empréstimo foi APROVADO! ')
+else:
+    print('Seu empréstimo foi NEGADO! ')
